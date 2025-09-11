@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Pierre
 
-Welcome to my GitHub! I'm a first-year Computer Science student with a growing passion for software development.  
+Welcome to my GitHub! I'm a second-year Computer Science student with a growing passion for software development.  
 I love bringing ideas to life—whether it's a small script, a web app, or a quirky side project that solves a real problem (or just makes someone smile).  
 I also happen to enjoy chess—especially the **London System**—so you'll find a few strategic metaphors sprinkled throughout this profile.  
 I like my code the way I like my openings: **well-structured, flexible, and quietly aggressive**.
@@ -9,7 +9,7 @@ I like my code the way I like my openings: **well-structured, flexible, and quie
 
 ## 🎓 About Me
 
-- 🏫 CS student, currently navigating the beautiful chaos of first year  
+- 🏫 CS student, currently navigating the beautiful chaos of my first years 
 - 💡 Interested in AI/ML, algorithms, and clean code  
 - 🧠 Learning by doing—projects, bugs, and late-night debugging  
 - 🎯 Goal: become the kind of dev who writes code that others actually enjoy reading
