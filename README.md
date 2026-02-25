@@ -28,11 +28,12 @@ I like my code the way I like my openings: **well-structured, flexible, and quie
 
 | Area           | Tools & Languages                     |
 |----------------|---------------------------------------|
-| 🧠 Core         | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) / ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) / ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)                     |
-| 🧪 Testing      | pytest                                |
-| 🧰 Essentials   | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) / ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) / Markdown              |
-| 🧱 Exploring    | Algorithms / Data Structures    |
-| 🚧 Coming Soon | Docker & SQL |
+| 🧠 Core         | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) / ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) / ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) |
+| 🧪 Testing      | pytest |
+| 🧰 Essentials   | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) / ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) / ![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat-square&logo=database&logoColor=white) |
+| 🧱 Exploring    | Algorithms / Data Structures |
+| 🚧 Coming Soon | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) / ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) |
+
 ---
 
 ## 📁 Portfolio & Contact
