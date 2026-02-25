@@ -18,7 +18,7 @@ I like my code the way I like my openings: **well-structured, flexible, and quie
 
 ## 📚 Currently Learning
 
-- Git & GitHub workflows  
+- Django Web Framework
 - Data structures & algorithms  
 - How to write fewer TODO comments and more actual code
 
