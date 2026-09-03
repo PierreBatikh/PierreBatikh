@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Pierre
 
-Welcome to my GitHub! I'm a second-year Computer Science student with a growing passion for software development.  
+Welcome to my GitHub! I'm a third-year Computer Science student with a growing passion for software development.  
 I love bringing ideas to life—whether it's a small script, a web app, or a quirky side project that solves a real problem (or just makes someone smile).  
 I also happen to enjoy chess—especially the **London System**—so you'll find a few strategic metaphors sprinkled throughout this profile.  
 I like my code the way I like my openings: **well-structured, flexible, and quietly aggressive**.
@@ -10,7 +10,7 @@ I like my code the way I like my openings: **well-structured, flexible, and quie
 ## 🎓 About Me
 
 - 🏫 CS student, currently navigating the beautiful chaos of my first years 
-- 💡 Interested in AI/ML, algorithms, and clean code  
+- 💡 Interested in DevOps&Cloud, algorithms, and clean code  
 - 🧠 Learning by doing—projects, bugs, and late-night debugging  
 - 🎯 Goal: become the kind of dev who writes code that others actually enjoy reading
 
@@ -18,21 +18,22 @@ I like my code the way I like my openings: **well-structured, flexible, and quie
 
 ## 📚 Currently Learning
 
-- Django Web Framework
-- Data structures & algorithms  
+- Authentication
+- DSA (this will stay here for long and long since it's so important) 
 - How to write fewer TODO comments and more actual code
 
 ---
 
 ## 🛠️ Tech Stack (So Far)
 
-| Area           | Tools & Languages                     |
-|----------------|---------------------------------------|
-| 🧠 Core         | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) / ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) / ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) |
-| 🧪 Testing      | pytest |
-| 🧰 Essentials   | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) / ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) / ![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat-square&logo=database&logoColor=white) |
-| 🧱 Exploring    | Algorithms / Data Structures |
-| 🚧 Coming Soon | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) / ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) |
+| Area               | Tools & Languages                     |
+|--------------------|---------------------------------------|
+| 🧠 Core            | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) /  ![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat-square&logo=database&logoColor=white) |
+| 🌐 Backend & Infra | ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) / ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| 🧪 Testing         | pytest |
+| 🧰 Essentials      | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) / ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) / ![Linux](https://img.shields.io/badge/Linux-181717?style=flat-square&logo=linux&logoColor=white) |
+| 🔭 Exploring       | Software Engineering / DevOps |
+| 🚧 Coming Soon     | FastAPI / Django Rest Framework |
 
 ---
 
