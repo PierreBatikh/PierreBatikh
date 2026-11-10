@@ -26,14 +26,14 @@ I like my code the way I like my openings: **well-structured, flexible, and quie
 
 ## 🛠️ Tech Stack (So Far)
 
-| Area               | Tools & Languages                     |
-|--------------------|---------------------------------------|
-| 🧠 Core            | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) /  ![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat-square&logo=database&logoColor=white) |
-| 🌐 Backend & Infra | ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) / ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| Area               | Tools & Languages |
+|--------------------|-------------------|
+| 🧠 Core            | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) / ![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat-square&logo=database&logoColor=white) |
+| 🌐 Backend & Infra | ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) / ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) / ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
 | 🧪 Testing         | pytest |
 | 🧰 Essentials      | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) / ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) / ![Linux](https://img.shields.io/badge/Linux-181717?style=flat-square&logo=linux&logoColor=white) |
 | 🔭 Exploring       | Software Engineering / DevOps |
-| 🚧 Coming Soon     | FastAPI / Django Rest Framework |
+| 🚧 Coming Soon     | FastAPI / Django REST Framework |
 
 ---
 
